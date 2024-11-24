@@ -11,7 +11,12 @@ const Footer = () => {
               Contact
             </h2>
             <h1 className="text-[48px] font-bold">Get in touch</h1>
-            <p className="">hellomedia555@gmail.com</p>
+            <Link
+            href="mailto:hellomedia555@example.com"
+            target="_blank"
+            >
+            <p className="text-[#1e3758] underline">hellomedia555@gmail.com</p>
+            </Link>
             <div className="flex justify-left items-center pt-2 gap-x-3">
               <Link
                 href="https://www.linkedin.com/in/saad-aslam-2167a32bb/"
