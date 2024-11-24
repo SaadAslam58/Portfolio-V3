@@ -29,17 +29,17 @@ const Sec1 = () => {
           <div className='flex justify-center items-center'>
             <nav className='md:flex justify-center items-center hidden'>
               <ul className='text-black flex md:flex-row flex-col justify-center items-center md:gap-16 gap-3'>
-                <li className='flex text-[#D1884F] justify-center items-center gap-2 cursor-pointer md:font-bold'>
+                <li className='flex text-[#D1884F] justify-center items-center gap-2 cursor-pointer md:font-bold transition-all duration-300 md:hover:scale-105'>
                   <Link href="/" className='flex justify-center items-center gap-2'>
                     <FaHome className='md:text-[28px] text-[20px] text-[#D1884F]' />Home
                   </Link>
                 </li>
-                <li className='flex justify-center items-center gap-2 cursor-pointer md:font-bold'>
+                <li className='flex justify-center items-center gap-2 cursor-pointer md:font-bold transition-all duration-300 md:hover:scale-105'>
                   <Link href="/skills" className='flex justify-center items-center gap-2'>
                     <FaLightbulb className='md:text-[25px] text-[18px]' />Skills
                   </Link>
                 </li>
-                <li className='flex justify-center items-center gap-2 cursor-pointer md:font-bold'>
+                <li className='flex justify-center items-center gap-2 cursor-pointer md:font-bold transition-all duration-300 md:hover:scale-105'>
                   <Link href="/projects" className='flex justify-center items-center gap-2'>
                     <FaTools className='md:text-[25px] text-[18px]' />Projects
                   </Link>
