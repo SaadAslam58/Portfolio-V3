@@ -88,12 +88,12 @@ const Sec1 = () => {
             </p>
           </div>
           <div className=''>
-            <button className='py-2 md:px-9 px-7 ml-[7px] md:mr-6 md-[20px] bg-[#008AAA] text-[#ffffff] shadow-custom-violet rounded-lg text-[17px] md:transition-all duration-300 hover:scale-105'>
+            <button className='py-2 md:px-9 px-5 md:mr-6 md:mx-[20px] my-2 md:my-0 mx-3 bg-[#008AAA] text-[#ffffff] shadow-custom-violet rounded-lg text-[17px] md:transition-all duration-300 md:hover:scale-105'>
               <Link href="https://milestone-1-delta-cyan.vercel.app/" target="_blank">
                 Download CV
               </Link>
             </button>
-            <button className='py-2 md:px-9 px-7 md:ml-6 mx-[20px] bg-transparent md:text-[#008AAA] text-[#ffffff] border-[#008AAA] border-2 shadow-custom-violet rounded-lg text-[17px] md:transition-all duration-300 hover:scale-105'>
+            <button className='py-2 md:px-9 px-5  md:mx-[20px] mx-3 bg-transparent md:text-[#008AAA] text-[#000000] border-[#008AAA] border-2 shadow-custom-violet rounded-lg text-[17px] md:transition-all duration-300 md:hover:scale-105'>
               <Link href="https://github.com/SaadAslam58?tab=repositories" target="_blank">
                 See My Repository
               </Link>
