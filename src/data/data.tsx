@@ -1,20 +1,21 @@
 export const projectData = [
-    {
+   {
       id: 1,
+      title: "Nike Website",
+      description: "Made using Next.js, Shadcn, Sanity & Tailwind CSS",
+      live: "https://hackathon-3-nine.vercel.app/",
+      github: "https://github.com/SaadAslam58/Hackathon-3",
+      image: "/Hackathon-3.png",
+    },
+    {
+      id: 2,
       title: "Animated Portfolio",
       description: "Crafted Using Next.js, Framer moting & Tailwind",
       live: "https://portfolio-tailwind-drab-three.vercel.app/",
       github: "https://github.com/SaadAslam58/portfolio-tailwind" ,
       image: "/portfolio1.png" ,
     },
-    {
-      id: 2,
-      title: "Rock Paper Scissor Game",
-      description: "Crafted Using Html, CSS & JavaScript.",
-      live: "https://rock-paper-scissor2-0.vercel.app/",
-      github: "https://github.com/SaadAslam58/Rock-Paper-Scissor2.0",
-      image: "/rps1.png",
-    },
+   
     {
       id: 3,
       title: "Tic Tac Toe Game",
@@ -25,19 +26,19 @@ export const projectData = [
     },
     {
       id: 4,
-      title: "Shareable Resume",
-      description: "Crafted Using Html, CSS & JavaScript.",
-      live: "https://milestone-5-one-hazel.vercel.app/",
-      github: "https://github.com/SaadAslam58/Milestone-5",
-      image: "/shareable.png",
+      title: "Blog Website",
+      description: "Crafted using Next.js, Shadcn",
+      live: "https://blog-website-five-nu.vercel.app/",
+      github: "https://github.com/SaadAslam58/Blog-Website",
+      image: "/Blog.png",
     },
     {
       id: 5,
-      title: "Qr Code Generator",
-      description: "Crafted Using Html, CSS & JavaScript.",
-      live: "https://qr-code-sigma-kohl.vercel.app/",
-      github: "https://github.com/SaadAslam58/QR-Code",
-      image: "/qrcode1.png",
+      title: "E-commerce Website",
+      description: "Initial steps in API integration",
+      live: "https://e-commerce-api-nine-gilt.vercel.app/",
+      github: "https://github.com/SaadAslam58/E-commerce-API",
+      image: "/E-commerce.png",
     },
     {
       id: 6,

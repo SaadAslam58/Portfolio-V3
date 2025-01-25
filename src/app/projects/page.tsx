@@ -20,14 +20,13 @@ const Projects = () => {
             return (
               <div
                 key={item.id}
-                className="pb-4 m-1 shadow-custom-violet rounded-lg md:transition-all duration-300 md:hover:scale-105"
-              >
+                className="pb-4 m-1 shadow-custom-violet rounded-lg md:transition-all duration-300 md:hover:scale-105">
                 <Image
                   src={item.image}
                   alt={item.title}
                   width={2000}
                   height={2000}
-                  className="w-full  rounded-t-md  border-b-[2px] border-gray-400  cursor-pointer "
+                  className="w-full rounded-t-md  border-b-[2px] border-gray-400  cursor-pointer "
                 />
                 <div className="px-3 pt-3">
                   <h1 className="font-bold text-[20px]">{item.title}</h1>

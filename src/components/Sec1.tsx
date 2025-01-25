@@ -89,7 +89,7 @@ const Sec1 = () => {
           </div>
           <div className=''>
             <button className='py-2 md:px-9 px-5 md:mr-6 md:mx-[20px] my-2 md:my-0 mx-3 bg-[#008AAA] text-[#ffffff] shadow-custom-violet rounded-lg text-[17px] md:transition-all duration-300 md:hover:scale-105'>
-              <Link href="https://milestone-1-delta-cyan.vercel.app/" target="_blank">
+              <Link href="https://drive.google.com/file/d/1ejEz6K81eWQxODPothsFJrJU2IFq1HBs/view?usp=drive_link" target="_blank">
                 Download CV
               </Link>
             </button>
